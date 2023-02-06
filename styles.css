@@ -6,6 +6,7 @@ body {
   align-items: center;
   justify-content: center;
   font-family: "Outfit", sans-serif;
+  margin: 0;
 }
 .wrapper-main {
   width: 275px;
@@ -37,4 +38,7 @@ body {
   font-size: 15px;
   text-align: center;
   color: hsl(220, 15%, 55%);
+}
+
+@media screen and (width: 375px) {
 }
